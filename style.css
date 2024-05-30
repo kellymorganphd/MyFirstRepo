@@ -1,0 +1,38 @@
+nav {
+  background-color: lightgray;
+}
+
+.navButton {
+  display: inline-block;
+  background-color: gray;
+  padding: 24px;
+  color: white;
+}
+
+.sidebar {
+  width: 29%;
+  float: left;
+  height: 800px;
+  padding: 16px;
+}
+
+.main {
+  width: 60%;
+  float: left;
+  height: 800px;
+}
+
+.sidebarImage {
+  width: 150px;
+}
+
+.mainImage {
+  width: 300px;
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.rowImage {
+  width: 200px;
+}
